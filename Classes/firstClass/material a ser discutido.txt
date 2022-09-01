@@ -1,0 +1,61 @@
+Building relational database 
+Elaboração de estratégias para a camada de informação, contemplando desde a modelagem relacional simples a critérios de normalização de dados, implementação de estruturas de dados em bancos de dados relacionais e manipulação utilizando linguagem padrão SQL e Oracle como SGBD.
+
+
+cronograma:
+apresentação do prof
+apresentação do conteudo
+avaliações: cp1, cp2, cp3 Duas maiores notas
+Atividades
+Exercícios
+
+Conteúdo
+Database modeling & SQL
+Introdução e conceitos gerais de banco de dados
+conceito e propriedades de banco de dados 
+sistema de gerenciamento de banco de dados relacional (SGBDR)
+
+
+Finalidade de tuto isso
+cria uma estrutura pra armazenar dados e me gerar inforamção e te orientar na tomada de decisão.
+
+sgbd é um software que me permite a contrução e administração dessa estrutura
+ferramenta = sgbd
+oracle = software que ele usa pra administrar o banco é o oracle
+
+
+modelagem conceitual de dados
+modelagem logica de dados
+modelagem fisica de dados
+modelo entidade relacionamento (MER)
+
+relacionamentos e seus graus
+cardinalidade
+entidade associativa
+especialização e generalização
+mapeamento modelo ER para modelo relacional
+formas normais: 1FN, 2FN e 3FN
+
+Lingugagem de definição de dados (DDL, que é a parte de estrutura e dps passar pro software)
+Lingugagem de manipulação de dados (DML, já envolve o frontend e suas ações que envolve o insert e o update)
+linguagem de consulta de dados (DQL, geração de relatórios e etc)
+junção de tabelas, entrega de varias inforamções juntas de uma forma mais avançada
+
+ferramenta
+Oracle-DataMOdel
+Oracle - Sql Developer
+
+Criar sua rede do sql developer 
+
+sql magazine no site da devmedia: https://devmedia.com.br/revista-sql-magazine
+W3 schools: w3schools.com/sql/
+uso online: db-fiddle.com
+
+BD versus sgbd
+bd: probelma que eu tenho que resolver criando uma estrutura de armazenamento
+sgbd: ferramenta para manipulação do banco de dados
+
+Dado versus Informação versus Conhecimento
+dado: Matheus
+inforamção: Meu nome é Matheus
+conhecimento: Agora eu sei que meu nome é matheus (Foi gerado um conhecimento)
