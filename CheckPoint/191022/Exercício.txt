@@ -1,0 +1,5 @@
+EMPRESA DE FLORES
+
+A X.P.T.O LTDA. criou a FLOWERNET, uma rede que tem como objetivo atender todo o mercado nacional no que diz respeito à venda e entrega de flores.
+
+Através desta rede, um cliente pode fazer uma compra de flores em Belo Horizonte e pedir para  a  entrega  ser  feita  em  Fortaleza.  Para  isso  a X.P.T.O  firmou  convênio  com  várias floriculturas em várias cidades do Brasil. Uma floricultura pode atender várias cidades da região.  O  pedido  do  cliente,  que  pode  possuir  vários  tipos  de  flores,  é  cadastrado  e repassado  para  uma  das  floriculturas  conveniadas  que  atendem  a  cidade,  na  qual  será entregue o pedido. Elabore um DER que contemple os dados necessários a este controle.
